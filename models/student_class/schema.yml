@@ -10,3 +10,13 @@ sources:
         description: 'Details about sales in the store .'
       - name: CLASS
         description: 'Details about sales in the store .'
+      - name: APPLICATION_STATUS
+        description:  ' describing status '
+  - name: DEMO_ANALYTICS
+    description: 'A sample data created by us '
+    database: DEMO_DB
+    schema:   ANALYTICS
+    tables:
+      - name: STUDENT_CLASS
+        description: 'JOINED TABLE OF STUDENT AND CLASS'
+     

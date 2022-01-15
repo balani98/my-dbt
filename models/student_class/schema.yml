@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: DEMO_DB
+    description: 'A sample data created by us '
+    database: DEMO_DB
+    schema:   DEMO_SCHEMA
+    tables:
+      - name: STUDENT
+        description: 'Details about sales in the store .'
+      - name: CLASS
+        description: 'Details about sales in the store .'
